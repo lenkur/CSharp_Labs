@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Threading;
-using System.Threading.Tasks;
 
 namespace KMA.CSharp2020.Lab01
 {
@@ -64,7 +62,6 @@ namespace KMA.CSharp2020.Lab01
         {
             CalcWesternZodiac();
             CalcChineseZodiac();
-
         }
 
         private void CalcWesternZodiac()

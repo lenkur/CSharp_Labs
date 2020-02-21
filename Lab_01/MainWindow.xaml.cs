@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace Lab_01
+namespace KMA.CSharp2020.Lab01
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
